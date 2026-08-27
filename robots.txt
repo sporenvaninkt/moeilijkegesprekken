@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sporenvaninkt.github.io/moeilijkegesprekken/sitemap.xml
