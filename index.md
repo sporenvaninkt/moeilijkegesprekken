@@ -1,9 +1,9 @@
-# moeilijkegesprekken
+# KENNISMODULE MOEILIJKE GESPREKKEN
 Kennisbron voor agent
 
-# MOEILIJKE GESPREKKEN
-
 ## CASUS 1
+
+### CASUS & VRAAG
 
 Je bent een medewerker in het CLB. Een directrice van een secundaire school heeft Mona verplicht om een aantal gesprekken met jou te hebben. Mona heeft namelijk met graffiti de schoolmuren beklad en vol gespoten met scheldwoorden over de directrice.
 
@@ -72,6 +72,7 @@ De focus ligt nu 100% op de **werkrelatie**. Als Mona merkt dat jij haar niet ve
 
 ## CASUS 2
 
+### CASUS & VRAAG
 Je hebt een gesprek met Nadine. Ze is een echte spraakwaterval: ze praat non-stop en vertelt je hele verhalen die eigenlijk helemaal niet ter zake doen bij de inhoud van het gesprek. Het lukt je moeilijk om alles te volgen wat ze zegt en al zeker om de essentie te zien.
 
 ### ANTWOORD
@@ -92,7 +93,7 @@ Bij niet-gestructureerde hulpvragers, die als een 'spraakwaterval' non-stop uitw
     * ‘Sorry, ik ga je even moeten onderbreken, je vertelt zoveel en ik kan niet alles volgen, ik wil het graag even proberen samen te vatten.’
 
 ## CASUS 3
-
+### CASUS & VRAAG
 Je bent stagebegeleider van Thor. Je geeft hem het slechte nieuws dat hij niet geslaagd is op zijn derdejaarsstage. Hij deed nochtans heel erg zijn best. Tussentijds gaf je aan dat hij een aantal belangrijke werkpunten had en dat hij niet geslaagd kon zijn zonder deze aan te pakken. Hij ging wel aan de slag met deze feedback, waarrond je hem ook positieve bevestiging gegeven hebt, maar de minimumgrens is voor een aantal competenties niet behaald, dus jij kan als stagebegeleider niet anders dan hem een onvoldoende geven.
 
 Nadat je deze feedback gegeven hebt, is de student even helemaal stil gevallen en dan heeft hij zich plots recht gezet en is beginnen roepen tegen jou, dat je niet eerlijk was, dat je gezegd had dat hij goed bezig was en dat je hem niet kan buizen, en al zeker niet in zijn laatste jaar. Hij is helemaal over zijn toeren. Hij geeft ook aan dat hij van zijn ouders zal moeten stoppen met studeren, dat ze het financieel zwaar hebben thuis, dat zijn vader terminaal ziek is en dat hij het niet meer aan kan om zijn stage opnieuw te moeten doen. Ook zullen ze van thuis uit zijn studies niet meer kunnen betalen. Jij zorgt ervoor dat hij zijn diploma niet kan halen! Besef je wel wat je hem aandoet? Hij geeft aan dat je hem moet laten slagen en vraagt wat hij nog moet doen om het toch in orde te laten komen.
@@ -163,7 +164,7 @@ In een vervolggesprek kan je dan volgende zaken verder bespreken:
 * Stage volgend jaar: heldere afspraken
 
 ## CASUS 4
-
+### CASUS & VRAAG
 Je werkt als jongerenpreventiecoach met een aantal hangjongeren. Je hebt ondertussen een fijn contact met hen opgebouwd. Eén van de jongeren vraagt of hij jou te vriend mag maken op Facebook. Wat doe je?
 
 ### ANTWOORD
@@ -198,7 +199,7 @@ Hoe ga je best om met de **grens tussen privé en werk**?
 > \*"Wat we wel kunnen doen: we hebben een officieel werk-account. Als je me daar een verzoek stuurt, accepteer ik dat meteen. Dan kunnen we daarop contact houden en kun je me altijd een berichtje sturen als er iets is."\*
 
 ## CASUS 5
-
+### CASUS & VRAAG
 Je bent stagebegeleider van Gillian. Hij doet stage op een plaats waar je al meermaals stages begeleidde. Je had het gevoel dat er nooit problemen waren op die stageplek en ook van de werkbegeleider (begeleider op de stageplaats) kreeg je tot nog toe enkel positieve feedback te horen van vorige studenten.
 
 Maar Gillian geeft aan dat hij niet tevreden is over zijn werkbegeleider. Hij klaagt dat zijn werkbegeleider nooit tijd maakt voor hem. Hij voelt zich onzeker en heeft nood aan feedback. Hij wil weten waar hij staat op vlak van zijn functioneren. Ook heeft hij er nood aan om terecht te kunnen met zijn vragen of sneller hulp te krijgen als hij ergens mee vast loopt.
@@ -251,7 +252,7 @@ De start van het gesprek moet **veiligheid bieden**, je **neutrale maar betrokke
 Je laat hiermee je eigen vooroordelen direct achterwege. Je erkent dat zijn behoefte aan feedback positief is, je stelt je onafhankelijk op en je stuurt meteen aan op *concrete voorbeelden* in plaats van algemene frustraties.
 
 ## CASUS 6
-
+### CASUS & VRAAG
 Je bent ploegbaas in een fabriek. Er zijn een aantal collega’s komen klagen over Freddy. Hij is een heel loyale vriendelijke medewerker, maar hij heeft een vreselijke lijfgeur. De collega’s durven Freddy er zelf niet over aan te spreken. Dat vinden ze te delicaat en ze willen hem niet kwetsen, maar ze vinden wel dat het probleem moet aangepakt worden.
 
 **Hoe zou je omgaan met deze situatie?**
@@ -308,7 +309,7 @@ Sluit het gesprek af met een herhaling van je steun. Freddy moet met een opgehev
 * **De klagende collega's bij naam noemen:** Zelfs niet als Freddy erom vraagt ("Wie heeft dat gezegd?!"). Houd het bij: *"Ik heb het zelf ook opgemerkt en als ploegbaas is het mijn taak om dit met jou te bespreken."*
 
 ## CASUS 7
-
+### CASUS & VRAAG
 Je bent stagecoördinator van de opleiding BaMV. Je moet voor een 60-tal studenten gepaste stageplaatsen vinden, wat een moeilijke puzzel is.
 
 De 2<sup>de</sup> jaarsstudente, Lilia diende haar stagekeuzeformulier een week te laat in. Je deed al 2x een voorstel tot stageplaats dat ze telkens weigerde. Maar ondertussen is ze heel ongeduldig en stuurt ze jou elke week minstens één mailtje om de vorderingen voor haar stageplaats te weten. Gisteren zocht je opnieuw een stageplaats voor haar en bezorgde haar die via e-mail. Vrijwel onmiddellijk kreeg je per e-mail het antwoord dat deze stageplek niet haalbaar is, aangezien die te moeilijk bereikbaar is voor haar.
@@ -341,7 +342,7 @@ Dit is een situatie waarin de **spanning tussen de organisatorische realiteit** 
 **5. Maak nieuwe goede afspraken:** ”Ik zou hieromtrent graag vandaag tot een beslissing komen.”
 
 ## CASUS 8
-
+### CASUS & VRAAG
 Je werkt op een ambulante drugspreventiedienst en je bent beleidsmedewerker om een preventiebeleid rond drugs uit te werken. Op een bepaalde dag komt er tijdens jouw permanentie een cliënt klagen over een collega van jou. Hoe ga je hier mee om?
 
 ### ANTWOORD
@@ -387,7 +388,7 @@ Als de cliënt je toestemming heeft gegeven om het probleem intern te bespreken,
 * **Beleidsmatige blik:** Komen er vaker dit soort specifieke klachten binnen? Dan is er misschien nood aan een betere visie of training rond bijvoorbeeld omgaan met weerstand of cliëntbejegening binnen de organisatie.
 
 ## CASUS 9
-
+### CASUS & VRAAG
 Je bent werkzaam als gemeenschapswacht in een middelgrote gemeente. Sinds enkele weken is er overlast rondom een heringericht skatepark in de wijk 'Nieuwland'. Buurtbewoners klagen over geluidsoverlast tot laat in de nacht, zwerfvuil en een intimiderende sfeer. De lokale politiek eist zichtbare resultaten en strengere handhaving. De spil van de onrust is een vaste groep jongeren tussen de 16 en 20 jaar. De informele leider van deze groep is de 19-jarige Samir. Samir heeft een moeilijke thuissituatie en gebruikt het plein om te ontsnappen aan de spanningen thuis. Hij staat bekend als verbaal mondig en wantrouwig tegenover uniformdragers.
 
 Het is vrijdagavond 20:00 uur. Je loopt samen met een collega een controleronde op het plein. Er geldt een formeel verbod op alcoholconsumptie op deze locatie. Je ziet Samir en vier vrienden op de rand van de skatebaan zitten. Er staan lege bierblikjes op de grond en één vriend heeft een open blikje in zijn hand. De sfeer is luidruchtig.
