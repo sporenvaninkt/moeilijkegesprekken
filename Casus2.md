@@ -1,3 +1,11 @@
+ <nav>
+   <ul>
+    <li><a href="index.html">Casus 1</a></li>
+    <li><a href="casus2.md">Casus 2</a></li>
+    <li><a href="parafraseren.md">Parafraseren</a></li>
+   </ul>
+  </nav>
+
 ## CASUS 2
 
 ### CASUS & VRAAG
