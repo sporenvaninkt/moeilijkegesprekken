@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <!-- Hoofdpagina / Casus 1 -->
+  <!-- Hoofdpagina / Landingspagina -->
   <url>
     <loc>https://sporenvaninkt.github.io/moeilijkegesprekken/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   
-  <!-- Casus 2 t/m 9 -->
+  <!-- Casus 1 t/m 9 -->
+  <url>
+    <loc>https://sporenvaninkt.github.io/moeilijkegesprekken/casus1.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
   <url>
     <loc>https://sporenvaninkt.github.io/moeilijkegesprekken/casus2.html</loc>
     <lastmod>2026-09-01</lastmod>
